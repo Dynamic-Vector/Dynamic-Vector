@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pratikaman4" target="blank"><img src="https://img.shields.io/twitter/follow/pratikaman4?logo=twitter&style=for-the-badge" alt="pratikaman4" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning  and Basics of Quantum Computing**
+- 🌱 I’m currently learning **Deep Learning  and Quantum Computing**
 
 - 📫 How to reach me **pratik.pna01@gmail.com**
 
