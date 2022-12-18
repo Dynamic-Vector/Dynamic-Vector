@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Deep Learning  and Quantum Computing**
 
-- 📫 How to reach me **pratik.pna01@gmail.com**
 
 - ⚡  **Connoissuer of Procrastination**
 
